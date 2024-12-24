@@ -1,1 +1,1 @@
-Namee : Deva
+Name : Deva
